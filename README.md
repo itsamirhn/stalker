@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Stalker
+# 🔎 Stalker
 
 Bots can not scrape anymore? No problem, scrape the data by yourself!
 

@@ -22,7 +22,6 @@
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
-    "async-lock": "^1.4.0",
-    "google-protobuf": "^3.21.2"
+    "async-lock": "^1.4.0"
   }
 }
